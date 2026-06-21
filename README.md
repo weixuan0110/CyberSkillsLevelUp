@@ -1,3 +1,23 @@
+# Cyber Skills Level-Up 2026
+<img src="https://www.rehack.my/assets/img/cslu2026-noyear-transparent.png" width=500>
+
+## Cyber Skills Level-Up co-hosted with CyberX UTM
+Date: 6 June 2026\
+Location: Universiti Teknologi Malaysia
+Trainers:
+* Tan Kel Zin - Post-Quantum Cryptography
+* Ammar Nawfal - ACL Attack PAths with BloodHound
+* Firdaus Amran - Pydantic AI
+* Adlina (Foxy) - Lockpicking 101
+
+Event sponsors: 
+- ASK Pentest Sdn. Bhd.
+- Altered Security
+
+Reference: https://www.linkedin.com/posts/%F0%9D%90%82%F0%9D%90%92%F0%9D%90%8B%F0%9D%90%94-%F0%9D%9F%90%F0%9D%9F%94-%F0%9D%90%A2%F0%9D%90%AC-%F0%9D%90%A8%F0%9D%90%9F%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%9C%F0%9D%90%A2%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%B2-ugcPost-7461030368423571456-bxwB
+
+## Cyber Skills Level-Up co-hosted with CyberHax UTP
+
 # Cyber Skills Level-Up 2025
 <img src="https://i.ibb.co/MD3W3FMn/cslu2025-white.png" width=500>
 
